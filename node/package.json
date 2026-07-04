@@ -1,0 +1,9 @@
+{
+  "name": "apidot-runway-gen-4-5-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}
