@@ -2,7 +2,7 @@
 
 Build with the Runway Gen-4.5 API using APIDot: cURL, Node.js, polling, webhooks, pricing, and production notes in one GitHub repo.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/runway-gen-4-5) | [Model Page](https://apidot.ai/models/runway-gen-4-5) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/runway-gen-4-5) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/runway-gen-4-5) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## Why this repo exists
 
